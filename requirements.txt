@@ -1,0 +1,6 @@
+streamlit
+nbformat
+scipy
+matplotlib
+pandas
+Pillow
